@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 280" role="img" aria-labelledby="title desc">
+  <title id="title">可爱的摸鱼小伙伴</title>
+  <desc id="desc">一只趴在笔记本电脑旁边、戴着耳机休息的小猫</desc>
+  <rect width="360" height="280" rx="28" fill="#fff6dc"/>
+  <circle cx="291" cy="55" r="24" fill="#f6d66b"/>
+  <circle cx="65" cy="210" r="18" fill="#bfe1d0"/>
+  <path d="M56 192c22-18 44-26 66-24 19 2 30 11 34 27 4 17-2 33-21 43H78c-18-5-27-20-22-46Z" fill="#ed795c"/>
+  <path d="m76 166 6-30 20 17 27-9 14 25c-14-7-39-10-67-3Z" fill="#ed795c"/>
+  <path d="m82 151 1-15 14 12M119 146l17-12 3 18" fill="none" stroke="#8f493b" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+  <path d="M82 179c9-8 28-10 40-2" fill="none" stroke="#8f493b" stroke-linecap="round" stroke-width="4"/>
+  <circle cx="94" cy="175" r="3.5" fill="#352f2b"/><circle cx="114" cy="175" r="3.5" fill="#352f2b"/>
+  <path d="M97 188c5 5 11 5 16 0" fill="none" stroke="#8f493b" stroke-linecap="round" stroke-width="3"/>
+  <path d="M61 208c-15 9-20 24-10 37 11 14 31 11 39-6" fill="none" stroke="#ed795c" stroke-linecap="round" stroke-width="12"/>
+  <path d="M155 214h128l-22 33H132Z" fill="#9bcfe3" stroke="#3c6872" stroke-linejoin="round" stroke-width="5"/>
+  <path d="M167 203h99c7 0 12 5 12 12v7H155v-7c0-7 5-12 12-12Z" fill="#d9f0f2" stroke="#3c6872" stroke-width="5"/>
+  <path d="M177 215h78" stroke="#8bbdc7" stroke-linecap="round" stroke-width="5"/>
+  <path d="M135 249h152" stroke="#3c6872" stroke-linecap="round" stroke-width="7"/>
+  <path d="M250 151c22 2 37 16 38 36" fill="none" stroke="#7d9faf" stroke-linecap="round" stroke-width="8"/>
+  <path d="M249 151c-10-9-21-6-26 4" fill="none" stroke="#7d9faf" stroke-linecap="round" stroke-width="8"/>
+  <circle cx="248" cy="165" r="8" fill="#f6d66b" stroke="#82673d" stroke-width="3"/>
+  <path d="M291 88c8 9 14 19 14 31" fill="none" stroke="#d18a51" stroke-linecap="round" stroke-width="5"/>
+  <path d="M305 116c8 2 13 7 15 15" fill="none" stroke="#d18a51" stroke-linecap="round" stroke-width="5"/>
+  <circle cx="303" cy="169" r="7" fill="#bfe1d0"/>
+  <circle cx="320" cy="180" r="5" fill="#ed795c"/>
+</svg>
